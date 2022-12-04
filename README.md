@@ -1,4 +1,4 @@
-# Platzi-Market
+## Platzi-Market
 App empresarial que controla las operaciones de un supermercado.
 Curso de Platzi que me brindó la empresa Kolektor donde trabajé. 
 ___
